@@ -1,6 +1,9 @@
 # Code-201-Reading notes
+
 **This is were Ill kept my reading notes
+
 ## Table of Contents 
+
 *1.
 2.
 3.
