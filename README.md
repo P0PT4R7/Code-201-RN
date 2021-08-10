@@ -1,7 +1,7 @@
 # Code-201-Reading notes
-THis is were Ill kept my reading notes
-## ToC
-1.
+**This is were Ill kept my reading notes
+## Table of Contents 
+*1.
 2.
 3.
 4.
