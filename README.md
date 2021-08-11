@@ -1,10 +1,10 @@
 # Code-201-Reading notes
 
-**This is were Ill kept my reading notes
+<b>This *is* were Ill kept my reading notes<b>
 
 ## Table of Contents 
 
-*1.
+1.
 2.
 3.
 4.
